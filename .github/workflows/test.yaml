@@ -1,0 +1,9 @@
+name: github_actions_demo
+on : push
+Jobs : 
+  explore_jobs:
+    runs_on : ubuntu_lataest
+    steps : 
+      - name : print trigger event
+        run : echo"trigger event is push"
+  
