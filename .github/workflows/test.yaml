@@ -1,6 +1,6 @@
 name: github_actions_demo
 on : push
-Jobs : 
+jobs : 
   explore_jobs:
     runs_on : ubuntu_latest
     steps : 
