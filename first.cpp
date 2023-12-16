@@ -8,9 +8,9 @@ int main()
     cout<<"enter second number";
     cin>>n2;
     cout<<n1+n2;
+    cout<<"I am tired";
 
-
-    cout<<"samah";
+    
 
     
     
