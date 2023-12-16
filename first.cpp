@@ -8,9 +8,10 @@ int main()
     cout<<"enter second number";
     cin>>n2;
     cout<<n1+n2;
+     cout<<"github";
 
     
     
-    cout<<"github";
+   
     return 0;
 }
